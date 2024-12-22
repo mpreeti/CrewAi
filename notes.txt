@@ -1,0 +1,3 @@
+go to cmd -- Start ollama (ollama server starts)
+type -- curl http://localhost:11434/(link on which ollama runs)
+to pull any model from ollama -- sollama pull llama3.2:1b
